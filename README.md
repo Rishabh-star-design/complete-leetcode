@@ -6,3 +6,27 @@ moreover I am aiming for finsihing 100 projects that i will  push twice every we
 next is to implement the Devops knowledge and web 3 based projects.
 This is the final placement prep before starting my 5th semester. 
 Thank you.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+## Greedy
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+<!---LeetCode Topics End-->
