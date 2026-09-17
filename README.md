@@ -12,16 +12,19 @@ Thank you.
 ## Array
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -37,6 +40,7 @@ Thank you.
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -46,6 +50,7 @@ Thank you.
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
