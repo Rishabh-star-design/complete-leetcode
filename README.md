@@ -41,11 +41,13 @@ Thank you.
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -65,4 +67,20 @@ Thank you.
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
