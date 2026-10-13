@@ -15,6 +15,7 @@ Thank you.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -110,4 +111,8 @@ Thank you.
 | [0678-valid-parenthesis-string](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
