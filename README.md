@@ -19,6 +19,7 @@ Thank you.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ Thank you.
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Thank you.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
