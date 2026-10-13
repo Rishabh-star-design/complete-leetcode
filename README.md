@@ -16,6 +16,7 @@ Thank you.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -41,6 +42,7 @@ Thank you.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Thank you.
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -70,6 +73,7 @@ Thank you.
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
