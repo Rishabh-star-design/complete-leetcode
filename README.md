@@ -69,6 +69,7 @@ Thank you.
 | [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
