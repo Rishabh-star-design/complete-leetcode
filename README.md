@@ -12,6 +12,7 @@ Thank you.
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2439-minimize-maximum-of-array](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -104,6 +105,7 @@ Thank you.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Thank you.
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -133,4 +136,12 @@ Thank you.
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishabh-star-design/complete-leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
